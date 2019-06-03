@@ -1,5 +1,5 @@
-# React Lottery
-A lottery in React
+# React Color Box
+A Color Box in React
 
 ## System Requirements
 - [node](https://nodejs.org/es/) v8 or greater
@@ -15,7 +15,7 @@ git --version
 
 ## Setup
 
-[Codesandbox](https://codesandbox.io/s/github/rojasleon/react-lottery)
+[Codesandbox](https://codesandbox.io/s/github/rojasleon/react-color-box/tree/master/)
 
 Download the repo or
 
