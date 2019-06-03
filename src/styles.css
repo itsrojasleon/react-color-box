@@ -1,4 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+.Box {
+  height: 20em;
+  width: 20em;
+}
+.BoxContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex: 1;
 }
